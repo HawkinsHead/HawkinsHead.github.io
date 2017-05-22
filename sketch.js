@@ -31,14 +31,14 @@ function preload() {
   images[9] = loadGif("pictures/bd6c59a1bebe561cfe58f3cabbe80ced.gif");
   images[10] = loadImage("pictures/Damn daniel.png");
   images[11] = loadImage("pictures/tumblr_mwsrctUdGw1qcayvko1_500.png");
-  images[12] = loadGif("pictures/Childish Gambino.Gif");
+  images[12] = loadGif("pictures/Childish gambino.Gif");
   images[13] = loadImage("pictures/Gnomestar.png");
   images[14] = loadImage("pictures/Biggie train.png");
   images[15] = loadImage("pictures/kazoo stomady.png");
   images[16] = loadImage("pictures/Vape Nation 1.png");
   images[17] = loadImage("pictures/tumblr_ncftndhm1z1tj1m9uo1_1280.png");
   images[18] = loadImage("pictures/Roadhog.png");
-  images[19] = loadGif("pictures/Travolta Boi.Gif");
+  images[19] = loadGif("pictures/Travolta boi.Gif");
   images[20] = loadImage("pictures/Salamander_Man.png");
   images[21] = loadImage("pictures/All Star.png");
   images[22] = loadImage("pictures/PaulaDeen.png");
